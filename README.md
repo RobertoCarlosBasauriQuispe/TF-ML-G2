@@ -1,38 +1,12 @@
-<h1 style="text-align: center;">Trabajo Final Machine Learning</h1>
-<center> <h2>Curso</h2></center>
-<br>
-<center>
-<h2>CC57 - Machine Learning</h2>
-</center>
-<br>
-<center>
-<h2>Sección</h2>
-</center>
-<br>
-<center>
-<h2>CC72</h2>
-</center>
-<br>
-<center>
-<h2>Profesor</h2>
-</center>
-<center>
-<br>
-<h2>
-Canaval Sánchez, Luis Martín</h2>
-</center>
-<br>
-<center>
-<h2>
-Alumnos</h2>
-</center>
-<br>
-<center>
-    <p>Arroyo Bonifaz, Luis Roberto u201716094</p>
-    <p>Basauri Quispe, Roberto Carlos u20181c074</p>
-    <p>Osorio Guerra, Cesar Javier u201314396</p>
-    <p>Teixeira Walters, Jett Manuel u201315252</p>
-</center>
+# Trabajo Final Machine Learning
+### Curso: CC57 - Machine Learning
+### Sección CC72
+### Profesor: Canaval Sánchez, Luis Martín
+### Alumnos
+- Arroyo Bonifaz, Luis Roberto u201716094
+- Basauri Quispe, Roberto Carlos u20181c074
+- Osorio Guerra, Cesar Javier u201314396
+- Teixeira Walters, Jett Manuel u201315252
 
 # Introducción
 
@@ -64,7 +38,7 @@ modelado de objetos 3D.
 - ModelNet10: Dataset que tiene diferentes clases de objetos modelados en 3D en formato OFF.
 
 <br>
-<center><img src="./assets/Tablas.png"></img></center>
+<img src="./assets/Tablas.png"></img>
 
 # Impresoras 3D
 
