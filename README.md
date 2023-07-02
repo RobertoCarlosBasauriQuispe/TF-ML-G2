@@ -121,6 +121,13 @@ Y haya generado N partes del objeto original.
 <img src="./assets/objeto1.jpg"></img>
 <img src="./assets/objeto2.jpg"></img>
 
+# Modelo de reconstrucción
+
+Para el modelo de reconstrucción se tuvo la tentativa por optar por una GAN.
+Las GAN son una opción adecuada ya que estos se utilizan para generar datos realistas a partir de una distribución de datos de entrenamiento.
+Las GAN son conformadas por dos modelos, el artista o generador, y el discriminador.
+Ambos modelos son entrenados simultáneamente. Mientras que el artista va creando, la función del discriminador, el cual recibe todo el conjunto de datos de entrenamiento, es de tachar o aprobar los resultados del generador. 
+Para el desarrollo, se propuso darle como dato de entrada al generador la pieza dañada. Este generaría modelos 3D de la pieza reconstruida. Mientras que al discriminador se le entrenaría con un conjunto de datos que contiene imágenes o modelos 3D de piezas completas y dañadas. La función del discriminador sería la de decidir si la pieza generada por el artista es el valor esperado. Mientras que la función del artista sería la de engañar al discriminador con sus valores generados.
 
 # Bibliografía
 
