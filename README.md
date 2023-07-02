@@ -1,3 +1,4 @@
+# Exposición: https://www.youtube.com/watch?v=-DtntdKgnCw
 # Trabajo Final Machine Learning
 ### Curso: CC57 - Machine Learning
 ### Sección CC72
